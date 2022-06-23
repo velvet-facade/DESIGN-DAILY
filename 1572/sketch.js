@@ -1,0 +1,1 @@
+const projectData = fetch('https://uidesigndaily.com/posts/figma-shopping-cart-online-shop-card-day-1572')   
